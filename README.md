@@ -1,3 +1,5 @@
+This code is associated with the paper from Varahan et al., "Resource plasticity-driven carbon-nitrogen budgeting enables specialization and division of labor in a clonal community". eLife, 2020. http://doi.org/10.7554/eLife.57609
+
 # metabplastic
 
 This repo has 2 jupyter notebooks linked to the research article :
